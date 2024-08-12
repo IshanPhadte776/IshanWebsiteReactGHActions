@@ -33,7 +33,7 @@ function Hero() {
           <img
             src={profilePic}
             className="w-1/8 xs:w-1/6 sm:w-1/5 md:w-1/5 lg:w-2/5"
-            alt="Profile Picture"
+            alt="Profile"
           />
           </div>
           <h1 className="text-4xl font-bold text-center my-4">Ishan Phadte</h1>
