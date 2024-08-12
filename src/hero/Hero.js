@@ -2,26 +2,6 @@ import React, { useEffect, useState } from "react";
 import profilePic from "./profilePicture.png";
 
 function Hero() {
-  const [screenSize, setScreenSize] = useState("");
-
-  useEffect(() => {
-    const handleMediaQueryChange = (event) => {
-      if (event.matches) {
-        setScreenSize(event.media);
-      }
-    };
-
-    const mediaQuery = window.matchMedia(
-      "(min-width: 768px) and (max-width: 1279px)"
-    );
-    mediaQuery.addListener(handleMediaQueryChange);
-    setScreenSize(mediaQuery.media);
-
-    return () => {
-      mediaQuery.removeListener(handleMediaQueryChange);
-    };
-  }, [screenSize,setScreenSize]);
-
   return (
     <div className="relative">
 
