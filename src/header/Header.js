@@ -1,5 +1,4 @@
 import React from "react";
-import emailIcon from "./images/email.png";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 
