@@ -24,21 +24,6 @@ function Hero() {
 
   return (
     <div className="relative">
-      {/* <img
-        src="https://media.giphy.com/media/BA8S1tDfyHOkU/giphy.gif"
-        //src= {backgroundGif}
-
-        alt="GIF"
-        className="w-full h-auto aspect-w-1 aspect-h-1 filter brightness-50"
-      /> */}
-
-      {/* <Image
-      src= {profilePic}
-      className="w-full h-auto aspect-w-1 aspect-h-1 filter brightness-50"
-      width={1}
-      height={1}
-      alt = "backgroundImage"
-      ></Image>  */}
 
       <div>
         <div>

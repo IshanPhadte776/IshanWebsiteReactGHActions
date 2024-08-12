@@ -1,5 +1,4 @@
 import React from "react";
-import styles from "./technologyUsed.module.css";
 
 import { IoLogoJavascript } from "react-icons/io5";
 import { AiFillHtml5 } from "react-icons/ai";

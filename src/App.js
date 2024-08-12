@@ -1,4 +1,3 @@
-import { useState, useEffect } from "react";
 import TechnologyUsed from "./technology/TechnologyUsed";
 import Hero from './hero/Hero';
 import Header from './header/Header';
