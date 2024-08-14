@@ -20,7 +20,7 @@ function Hero() {
           <div className="text-lg text-justify">
             <div className="mb-2 mx-4">
               <p>
-                Hello, My name is Ishan Phadte. I am a 3rd-year Computer Science
+                Hello, My name is Ishan Phadte. I am a 4th-year Computer Science
                 student at the University of Ottawa. I am a great software
                 engineer because I possess exceptional problem-solving skills.
               </p>
