@@ -7,7 +7,7 @@ on:
             - main 
 
 jobs:
-    build-deploy:
+    build-test-deploy:
         runs-on:
             ubuntu-latest
 
